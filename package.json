@@ -2,6 +2,7 @@
   "name": "todo-react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://smirnovdmitry1.github.io/todos",
   "type": "module",
   "scripts": {
     "start": "vite",
